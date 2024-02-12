@@ -1,8 +1,18 @@
-**Portifólio inicial Alura**
 
-Esta página conta um pouco sobre mim e o da acesso as minhas redes sociais.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
-🔨 Funcionalidades do projeto
+![image](https://github.com/Jhons03/FullStack-Desenvolve-Boticario/blob/main/aula%205/assets/portifolio.png)
 
-Páginas da aula do Grupo boticário sobre HTML e CSS. A intenção é aprender os conceitos e como aplicalos.
+## Ferramentas utilizadas:
 
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por: 
+
+### Edson Marco
+
+### Linkedin: https://www.linkedin.com/in/edson-marco-071b51222/
